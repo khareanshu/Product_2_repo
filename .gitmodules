@@ -1,0 +1,6 @@
+[submodule "High"]
+	path = High
+	url = https://github.com/khareanshu/High.git
+[submodule "Mid"]
+	path = Mid
+	url = https://github.com/khareanshu/Mid.git
